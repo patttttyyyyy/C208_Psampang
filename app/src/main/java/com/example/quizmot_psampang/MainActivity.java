@@ -1,6 +1,7 @@
-package com.example.leaf_year_sampangpatricia_ann;
+package com.example.quizmot_psampang;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {

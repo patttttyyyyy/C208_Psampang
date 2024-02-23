@@ -1,4 +1,4 @@
-package com.example.leaf_year_sampangpatricia_ann;
+package com.example.quizmot_psampang;
 
 import org.junit.Test;
 

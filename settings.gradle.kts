@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Leaf_Year-Sampang,Patricia-Ann"
+rootProject.name = "QUIZMOT_PSAMPANG"
 include(":app")
  
